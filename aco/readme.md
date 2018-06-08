@@ -1,6 +1,6 @@
 #  Author : Sumod Madhavan
 # Ant-Colony Optimization
-#Usage:
+- Usage:
 	import ant_colony
 			
 	//given some nodes, and some locations...
