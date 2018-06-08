@@ -137,7 +137,6 @@ class ant_colony:
 			if self.tour_complete:
 				return self.distance_traveled
 			return None
-		
 	def __init__(self, nodes, distance_callback, start=None, ant_count=50, alpha=.5, beta=1.2,  pheromone_evaporation_coefficient=.40, pheromone_constant=1000.0, iterations=80):
 		"""
 		initializes an ant colony (houses a number of worker ants that will traverse a map to find an optimal route as per ACO [Ant Colony Optimization])
