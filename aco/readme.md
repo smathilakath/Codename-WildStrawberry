@@ -1,4 +1,5 @@
-#Author : Sumod Madhavan
+#  Author : Sumod Madhavan
+# Ant-Colony Optimization
 #Usage:
 	import ant_colony
 			
